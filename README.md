@@ -1,19 +1,18 @@
 ### Hello 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=esameisa&label=Visitors" alt="Visitors"/></p>
-
 I help my clients navigate through the fascinating world of user focused experience design to obtain results.
 
-## Skills
-● OOP / Data Structures / Design Patterns
-● MySQL / PHP
-● Laravel
-● Vue.js
-
-● Creating UI / UX Design using
-● Photoshop / Sketch App
-● HTML / CSS / JS / JQuery
-● SASS / HAMEL / Gulp.js / Webpack
-● Bootstrap / Materializecss / TailwindCSS
+## Back-End Skills
+- OOP / Data Structures / Design Patterns
+- MySQL / PHP
+- Laravel
+- Vue.js
+## UI/UX & Front-End Skills
+- Creating UI / UX Design using
+- Photoshop / Sketch App
+- HTML / CSS / JS / JQuery
+- SASS / HAMEL / Gulp.js / Webpack
+- Bootstrap / Materializecss / TailwindCSS
 
 
 - 🔭 I’m currently working on **personal projects**
