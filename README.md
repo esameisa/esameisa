@@ -8,11 +8,10 @@ I help my clients navigate through the fascinating world of user focused experie
 - Laravel
 - Vue.js
 ## UI/UX & Front-End Skills
-- Creating UI / UX Design using
-- Photoshop / Sketch App
+- Creating UI / UX Design using Photoshop / Sketch App
 - HTML / CSS / JS / JQuery
 - SASS / HAMEL / Gulp.js / Webpack
-- Bootstrap / Materializecss / TailwindCSS
+- Bootstrap 3,4,5 / Materializecss / TailwindCSS
 
 ## Info
 - 🔭 I’m currently working as a **Back-End Developer** at **cowpay.me**, it is a premium payment technology enabler dedicated to helping businesses transform their operation collecting , splitting , and disbursing money digitally!
