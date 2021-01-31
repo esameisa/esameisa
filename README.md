@@ -23,6 +23,12 @@ I help my clients navigate through the fascinating world of user focused experie
 - 💬 Ask me about **UI/UX, Front-End, Back-End**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/esameisa/" target="_blank">**linkedin**</a>, <a href="mailto:esameisa12345@gmail.com">**esameisa12345@gmail.com**</a>
 
+  
+
+## github stats
+![github stats](https://github-readme-stats.vercel.app/api?username=esameisa&show_icons=true&theme=dark)
+
+
 ## How to reach me: 
 
 <a href="https://www.linkedin.com/in/esameisa/">
@@ -37,7 +43,3 @@ I help my clients navigate through the fascinating world of user focused experie
 <a href="https://github.com/esameisa/">
   <img align="left" alt="Esam Eisa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-  
-
-## github stats
-![github stats](https://github-readme-stats.vercel.app/api?username=esameisa&show_icons=true&theme=dark)
