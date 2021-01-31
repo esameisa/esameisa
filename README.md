@@ -1,22 +1,28 @@
-<!--
-**esameisa/esameisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hello 👋
-I'm a Full Stack Web Development. 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=esameisa&label=Visitors" alt="Visitors"/></p>
 
-- I’m currently working by php(laravel), Vue.js, Bootstrap...
+I help my clients navigate through the fascinating world of user focused experience design to obtain results.
+
+## Skills
+● OOP / Data Structures / Design Patterns
+● MySQL / PHP
+● Laravel
+● Vue.js
+
+● Creating UI / UX Design using
+● Photoshop / Sketch App
+● HTML / CSS / JS / JQuery
+● SASS / HAMEL / Gulp.js / Webpack
+● Bootstrap / Materializecss / TailwindCSS
+
+
+- 🔭 I’m currently working on **personal projects**
+- 🌱 I’m currently learning **tips and tricks in laravel**
+- 👯 I’m looking to collaborate on **startup idea**
+- 🤔 I’m looking for **mentor**
+- 💬 Ask me about **UI/UX, Front-End, Back-End**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/esameisa/" target="_blank">**linked-in**</a> ,<a href="mailto:esameisa12345@gmail.com">**esameisa12345@gmail.com**</a>
+
 - How to reach me: 
 
 <a href="https://www.linkedin.com/in/esameisa/">
