@@ -8,20 +8,38 @@ I help my clients navigate through the fascinating world of user focused experie
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-	      <span><strong>Laravel</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/440px-Laravel.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
         <span><strong>PHP</strong></span><br><br><br>
         <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/240px-PHP-logo.svg.png">
       </td>
       <td width="25%" align="center">
+      	<span><strong>Laravel</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/440px-Laravel.svg.png">
+      </td>
+      <td width="25%" align="center">
+      	<span><strong>Vuejs</strong></span><br><br><br>
+        <img height="64px" src="https://pnglive.com/wp-content/uploads/2021/01/Vue-JS-Logo-Background-PNG-Image.png">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png">
+      </td>
+     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Livewire</strong></span><br><br><br>
+        <img height="100px" src="https://laravelnews.imgix.net/images/laravel-livewire.png?ixlib=php-3.3.0">
+      </td>
+      <td width="25%" align="center">
+      	<span><strong>Inertiajs</strong></span><br><br><br>
+        <img height="100px" src="https://inertiajs.com/previews/home.png">
+      </td>
+      <td width="25%" align="center">
+      	<span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Digital Ocean</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/280px-DigitalOcean_logo.svg.png">
       </td>
      </tr>
     <tr valign="top">
@@ -42,19 +60,23 @@ I help my clients navigate through the fascinating world of user focused experie
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
-
   </tbody>
 </table>
+
+
 ## Back-End Skills
 - OOP / Data Structures / Design Patterns
 - MySQL / PHP
 - Laravel
 - Vue.js
+
+
 ## UI/UX & Front-End Skills
 - Creating UI / UX Design using Photoshop / Sketch App
 - HTML / CSS / JS / JQuery
 - SASS / HAMEL / Gulp.js / Webpack
 - Bootstrap 3,4,5 / Materializecss / TailwindCSS
+
 
 ## Info
 - 🔭 I’m currently working as a **Back-End Developer** at **cowpay.me**, it is a premium payment technology enabler dedicated to helping businesses transform their operation collecting , splitting , and disbursing money digitally!
