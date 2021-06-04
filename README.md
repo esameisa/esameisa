@@ -34,12 +34,12 @@ I help my clients navigate through the fascinating world of user focused experie
         <img height="100px" src="https://inertiajs.com/previews/home.png">
       </td>
       <td width="25%" align="center">
-      	<span><strong>Sketch</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.png">
+        <span><strong>CSS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Photoshop</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/arz/b/b7/Adobe-Photoshop-Logo.png">
+        <span><strong>Html 5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
      </tr>
     <tr valign="top">
@@ -62,12 +62,12 @@ I help my clients navigate through the fascinating world of user focused experie
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      	<span><strong>Sketch</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span><strong>Photoshop</strong></span><br><br><br>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/arz/b/b7/Adobe-Photoshop-Logo.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
