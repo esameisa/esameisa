@@ -57,7 +57,7 @@ I help my clients navigate through the fascinating world of user focused experie
       </td>
       <td width="25%" align="center">
         <span><strong>Jira</strong></span><br><br><br>
-        <img height="64px" src="https://seekvectorlogo.com/wp-content/uploads/2019/04/jira-software-vector-logo.png">
+        <img height="64px" src="https://i0.wp.com/invotra.com/wp-content/uploads/2019/09/jira_software_logo-e1571063680300.png?fit=768%2C216&ssl=1">
       </td>
      </tr>
     <tr valign="top">
