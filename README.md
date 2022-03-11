@@ -17,7 +17,7 @@ I help my clients navigate through the fascinating world of user focused experie
       </td>
       <td width="25%" align="center">
       	<span><strong>Vuejs</strong></span><br><br><br>
-        <img height="64px" src="https://vuejs.org/images/logo.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Bootstrap</strong></span><br><br><br>
