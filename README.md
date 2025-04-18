@@ -70,8 +70,8 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/1200px-Sketch_Logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Photoshop</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/arz/b/b7/Adobe-Photoshop-Logo.png">
+        <span><strong>Figma</strong></span><br><br><br>
+        <img height="100px" src="https://esameisa.com/assets/images/stack/figma.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
