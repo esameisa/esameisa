@@ -20,6 +20,16 @@
         <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/440px-Laravel.svg.png">
       </td>
       <td width="25%" align="center">
+      	<span><strong>FilamentPHP</strong></span><br><br><br>
+        <img height="100px" src="https://esameisa.com/assets/images/stack/filamentphp.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Yii2</strong></span><br><br><br>
+        <img height="64px" src="https://esameisa.com/assets/images/stack/yii.png">
+      </td>
+     </tr>
+    <tr valign="top">
+    <td width="25%" align="center">
       	<span><strong>Vuejs</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png">
       </td>
@@ -27,8 +37,6 @@
         <span><strong>Bootstrap</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/440px-Bootstrap_logo.svg.png">
       </td>
-     </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Livewire</strong></span><br><br><br>
         <img height="100px" src="https://esameisa.com/assets/images/stack/livewire.png">
@@ -36,14 +44,6 @@
       <td width="25%" align="center">
       	<span><strong>Inertiajs</strong></span><br><br><br>
         <img height="100px" src="https://esameisa.com/assets/images/stack/inertia.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>CSS & SASS</strong></span><br><br><br>
-        <img height="64px" src="https://esameisa.com/assets/images/stack/sass.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
      </tr>
     <tr valign="top">
@@ -56,12 +56,12 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/1024px-DigitalOcean_logo.svg.png">
       </td>
       <td width="25%" align="center">
-      	<span><strong>Notion</strong></span><br><br><br>
-        <img height="100px" src="https://iamstevein.files.wordpress.com/2020/11/notion-logo.png">
+        <span><strong>CSS & SASS</strong></span><br><br><br>
+        <img height="64px" src="https://esameisa.com/assets/images/stack/sass.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Jira</strong></span><br><br><br>
-        <img height="64px" src="https://i0.wp.com/invotra.com/wp-content/uploads/2019/09/jira_software_logo-e1571063680300.png?fit=768%2C216&ssl=1">
+        <span><strong>Html 5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
      </tr>
     <tr valign="top">
