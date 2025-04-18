@@ -120,17 +120,31 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=esameisa&show_icons=true&theme=dark)
 
-## How to reach me:
+## 📬 How to reach me:
 
-<a href="https://www.linkedin.com/in/esameisa/">
-  <img align="left" alt="Esam Eisa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/esameisa/" target="_blank">
+  <img align="left" alt="Esam Eisa | LinkedIn" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Eng_esameisa">
-  <img align="left" alt="Esam Eisa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://github.com/esameisa" target="_blank">
+  <img align="left" alt="Esam Eisa | GitHub" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/Esam.A.Eisa/">
-  <img align="left" alt="Esam Eisa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://twitter.com/Eng_esameisa" target="_blank">
+  <img align="left" alt="Esam Eisa | Twitter" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://github.com/esameisa/">
-  <img align="left" alt="Esam Eisa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.facebook.com/Esam.A.Eisa/" target="_blank">
+  <img align="left" alt="Esam Eisa | Facebook" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="mailto:esameisa12345@gmail.com" target="_blank">
+  <img align="left" alt="Esam Eisa | Email" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://esameisa.com" target="_blank">
+  <img align="left" alt="Esam Eisa | Website" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />
+</a>
+<a href="https://www.behance.net/esameisa" target="_blank">
+  <img align="left" alt="Esam Eisa | Behance" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+<a href="https://wa.me/201150538383" target="_blank">
+  <img align="left" alt="Esam Eisa | WhatsApp" width="24px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+
+<br clear="left" />
