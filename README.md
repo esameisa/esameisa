@@ -8,7 +8,6 @@
 -   💼 I have over **9 years of experience** working with startups, agencies, and fast-growing companies—delivering clean, maintainable code and reliable backend solutions.
 -   🌍 I’ve built high-performance systems for **food delivery**, **payment gateways**, and **custom web applications**, handling integrations with Visa, Mastercard, STC Pay, Apple Pay, Tamara, and more.
 -   🌱 I’m currently exploring **FastAPI**, **Golang**, and advanced techniques in **Laravel**, **MySQL optimization**, and **AWS infrastructure**.
--   🚀 I’m open to **freelance opportunities**, **consulting**, and **CTO-level roles**.
 -   💬 Ask me about anything backend—**Laravel, system architecture, payments, and API design**.
 -   📫 Reach me at [**LinkedIn**](https://www.linkedin.com/in/esameisa/) or [**esameisa12345@gmail.com**](mailto:esameisa12345@gmail.com)
 
