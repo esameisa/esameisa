@@ -2,9 +2,41 @@
 
 <img src="https://komarev.com/ghpvc/?username=esameisa&label=Visitors" alt="Visitors"/>
 
-💻 I’m passionate about building robust, scalable backend systems that power seamless digital experiences. I love architecting APIs, optimizing performance, and creating secure infrastructures that help businesses grow and users thrive.
+## ℹ️ Info
 
-📫 How to reach me: esameisa12345@gmail.com
+-   🔭 I’m currently working as a **Senior Back-End Developer** specialized in building scalable APIs, eCommerce platforms, and FinTech integrations at [**esameisa.com**](https://esameisa.com).
+-   💼 I have over **9 years of experience** working with startups, agencies, and fast-growing companies—delivering clean, maintainable code and reliable backend solutions.
+-   🌍 I’ve built high-performance systems for **food delivery**, **payment gateways**, and **custom web applications**, handling integrations with Visa, Mastercard, STC Pay, Apple Pay, Tamara, and more.
+-   🌱 I’m currently exploring **FastAPI**, **Golang**, and advanced techniques in **Laravel**, **MySQL optimization**, and **AWS infrastructure**.
+-   🚀 I’m open to **freelance opportunities**, **consulting**, and **CTO-level roles**.
+-   💬 Ask me about anything backend—**Laravel, system architecture, payments, and API design**.
+-   📫 Reach me at [**LinkedIn**](https://www.linkedin.com/in/esameisa/) or [**esameisa12345@gmail.com**](mailto:esameisa12345@gmail.com)
+
+## 🧠 Back-End Skills
+
+-   OOP / Data Structures / Design Patterns
+-   PHP / MySQL / PostgreSQL
+-   Laravel / FilamentPHP / Laravel Nova / Yii2
+-   API Development (RESTful, JSON)
+-   Job Queues / Events / Listeners / Caching
+-   Git / Version Control
+-   Deployment: DigitalOcean / AWS / CPanel
+
+## 🎨 UI/UX & Front-End Skills
+
+-   HTML / CSS / JS / jQuery
+-   Vue.js / Livewire / Inertia.js
+-   SASS / Bootstrap (3, 4, 5) / TailwindCSS / MaterializeCSS
+-   Gulp.js / Webpack
+-   UI/UX Design using Photoshop / Sketch / Figma / Adobe XD
+
+## 🛠 Tools & Workflow
+
+-   VSCode / Git / CLI / SSH
+-   Jira / Notion / Trello
+-   Agile / Scrum
+-   Performance Optimization
+-   Responsive & Accessible Design
 
 🖥 Skills
 
@@ -84,42 +116,6 @@
     </tr>
   </tbody>
 </table>
-
-## 🧠 Back-End Skills
-
--   OOP / Data Structures / Design Patterns
--   PHP / MySQL / PostgreSQL
--   Laravel / FilamentPHP / Laravel Nova / Yii2
--   API Development (RESTful, JSON)
--   Job Queues / Events / Listeners / Caching
--   Git / Version Control
--   Deployment: DigitalOcean / AWS / CPanel
-
-## 🎨 UI/UX & Front-End Skills
-
--   HTML / CSS / JS / jQuery
--   Vue.js / Livewire / Inertia.js
--   SASS / Bootstrap (3, 4, 5) / TailwindCSS / MaterializeCSS
--   Gulp.js / Webpack
--   UI/UX Design using Photoshop / Sketch / Figma / Adobe XD
-
-## 🛠 Tools & Workflow
-
--   VSCode / Git / CLI / SSH
--   Jira / Notion / Trello
--   Agile / Scrum
--   Performance Optimization
--   Responsive & Accessible Design
-
-## Info
-
--   🔭 I’m currently working as a **Back-End Developer** at **cowpay.me**, it is a premium payment technology enabler dedicated to helping businesses transform their operation collecting , splitting , and disbursing money digitally!
--   🔭 I’m currently working as a **Back-End Developer** at **techne.me**, it is an international multi-industry focused investment & entrepreneurship event that aims to impact multiple sectors and stakeholders of the startup communities in the Mediterranean region through showcasing different technologies and their application in each industry.
--   🌱 I’m currently learning **tips & tricks in laravel and AWS**
--   👯 I’m looking to collaborate on **startup idea**
--   🤔 I’m looking for **mentor**
--   💬 Ask me about **UI/UX, Front-End, Back-End**
--   📫 How to reach me: <a href="https://www.linkedin.com/in/esameisa/" target="_blank">**linkedin**</a>, <a href="mailto:esameisa12345@gmail.com">**esameisa12345@gmail.com**</a>
 
 ## github stats
 
