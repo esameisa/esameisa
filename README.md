@@ -31,15 +31,15 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Livewire</strong></span><br><br><br>
-        <img height="100px" src="https://laravelnews.imgix.net/images/laravel-livewire.png?ixlib=php-3.3.0">
+        <img height="100px" src="https://esameisa.com/assets/images/stack/livewire.png">
       </td>
       <td width="25%" align="center">
       	<span><strong>Inertiajs</strong></span><br><br><br>
-        <img height="100px" src="https://inertiajs.com/previews/home.png">
+        <img height="100px" src="https://esameisa.com/assets/images/stack/inertia.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><strong>CSS & SASS</strong></span><br><br><br>
+        <img height="64px" src="https://esameisa.com/assets/images/stack/sass.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Html 5</strong></span><br><br><br>
